@@ -55,7 +55,8 @@ A pre-execution trust and risk layer for autonomous agents.
 
 OMNI checks packages, repositories, dependencies, and x402 endpoints **before an agent installs, trusts, executes, or pays**.
 
-Idea : **Agents should verify what they're about to trust.**
+> [!TIP]
+> **Agents should verify what they're about to trust.**
 
 </td>
 
