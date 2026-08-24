@@ -134,11 +134,11 @@ Adds seller middleware, buyer tools, dual-role agents, Circle Gateway payments, 
 
 ---
 
-### Current focus :
+### Current focus
 
 **Currently focused on building agentic payment and trust infrastructure across the Arc / Circle ecosystem.**
 
-Right now I'm mostly exploring :
+Right now I'm mostly exploring:
 
 **AI agents × x402 × stablecoin payments × agent identity × trust infrastructure**
 
