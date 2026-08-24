@@ -4,7 +4,7 @@
 
 ### Building infrastructure for the agentic economy.
 
-I build around **AI agents, programmable payments, trust infrastructure, and onchain automation**.
+I build around **AI agents, programmable payments, x402, trust infrastructure, and onchain automation**.
 
 <p>
   <img src="https://img.shields.io/badge/Agentic_Economy-111827?style=flat-square" />
