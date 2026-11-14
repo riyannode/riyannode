@@ -61,6 +61,18 @@ OMNI checks packages, repositories, dependencies, and x402 endpoints **before an
 </td>
 
 </tr>
+<tr>
+<td colspan="2" valign="top">
+
+<h3>
+  <img src="https://api.iconify.design/lucide:target.svg?color=%230EA5E9" width="22" height="22" />
+  <a href="https://github.com/riyannode/UNMET">UNMET</a>
+</h3>
+
+An **onchain demand market for AI-agent capabilities**. Requesters publish needs, supporters commit funds, and builders receive escrowed funds after supporter approval.
+
+</td>
+</tr>
 </table>
 
 
@@ -129,6 +141,7 @@ Adds seller middleware, buyer tools, dual-role agents, Circle Gateway payments, 
 | --------------------------------------------------------- | -------------------------------------------------------------- |
 | [PayLabs](https://github.com/riyannode/Paylabs)           | Multi-agent economy with x402 payments and creator payouts     |
 | [OMNI](https://github.com/riyannode/omni)                 | Pre-execution trust and risk layer for autonomous agents       |
+| [UNMET](https://github.com/riyannode/UNMET)               | Onchain demand funding and escrow for AI-agent services        |
 | [Arc x402 SDKs](https://github.com/riyannode/arc-x402sdk) | Hub for reusable Arc, Circle Gateway, and x402 tooling         |
 | [Hermes x402](https://github.com/riyannode/hermes-x402)   | x402 buyer, seller, and dual-role integration for Hermes Agent |
 
