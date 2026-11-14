@@ -71,6 +71,8 @@ OMNI checks packages, repositories, dependencies, and x402 endpoints **before an
 
 An **onchain demand market for AI-agent capabilities**. Requesters publish needs, supporters commit funds, and builders receive escrowed funds after supporter approval.
 
+**OKX Dev Day 2026 winner** · Best Remote Demo (Build a Company)
+
 </td>
 </tr>
 </table>
